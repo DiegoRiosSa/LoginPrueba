@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "48748689391",
+    "project_id": "loginprueba-88e01",
+    "storage_bucket": "loginprueba-88e01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48748689391:android:adb6a8f3c51c3ba045681a",
+        "android_client_info": {
+          "package_name": "com.example.loginprueba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48748689391-ltpbvaun79nuqg4e5pbk8f7oir2u4rg9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVGNN6TZ9bEZfbMMjp0DsdCFLb_T3vTUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48748689391-ltpbvaun79nuqg4e5pbk8f7oir2u4rg9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
